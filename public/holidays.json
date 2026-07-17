@@ -1,0 +1,59 @@
+{
+  "conversion_method": "Historical sighting-based lunar calendar mapping for Bangladesh (Islamic Foundation Bangladesh). Standard lunar shift of approximately 10-12 days earlier per Gregorian calendar year was validated using actual astronomical reports and national announcements.",
+  "holidays": [
+    {
+      "name": "Eid-ul-Fitr 2024",
+      "hijri_year": "1445",
+      "gregorian_start_date": "2024-04-10",
+      "gregorian_end_date": "2024-04-12",
+      "peak_date": "2024-04-11",
+      "type": "major_religious_festival",
+      "description": "Marking the end of Ramadan. High transaction velocity of cash_outs and peer-to-peer transfers starting 5 days prior."
+    },
+    {
+      "name": "Eid-ul-Adha 2024",
+      "hijri_year": "1445",
+      "gregorian_start_date": "2024-06-16",
+      "gregorian_end_date": "2024-06-18",
+      "peak_date": "2024-06-17",
+      "type": "major_religious_festival",
+      "description": "Festival of Sacrifice. Massive cash_out velocity for purchasing cattle and high cash_in at leather markets shortly after."
+    },
+    {
+      "name": "Eid-ul-Fitr 2025",
+      "hijri_year": "1446",
+      "gregorian_start_date": "2025-03-30",
+      "gregorian_end_date": "2025-04-01",
+      "peak_date": "2025-03-31",
+      "type": "major_religious_festival",
+      "description": "Marking the end of Ramadan. Shifts 11 days earlier than 2024. Heavy digital-to-cash conversions nationwide."
+    },
+    {
+      "name": "Eid-ul-Adha 2025",
+      "hijri_year": "1446",
+      "gregorian_start_date": "2025-06-06",
+      "gregorian_end_date": "2025-06-08",
+      "peak_date": "2025-06-07",
+      "type": "major_religious_festival",
+      "description": "Festival of Sacrifice. Massive physical cash demand in cattle markets (Haats)."
+    },
+    {
+      "name": "Eid-ul-Fitr 2026",
+      "hijri_year": "1447",
+      "gregorian_start_date": "2026-03-19",
+      "gregorian_end_date": "2026-03-21",
+      "peak_date": "2026-03-20",
+      "type": "major_religious_festival",
+      "description": "Marking the end of Ramadan. Major liquidity pressure nationwide as salaries are disbursed early."
+    },
+    {
+      "name": "Eid-ul-Adha 2026",
+      "hijri_year": "1447",
+      "gregorian_start_date": "2026-05-26",
+      "gregorian_end_date": "2026-05-28",
+      "peak_date": "2026-05-27",
+      "type": "major_religious_festival",
+      "description": "Festival of Sacrifice. High cash drawer depletion risks for agents across Bangladesh."
+    }
+  ]
+}

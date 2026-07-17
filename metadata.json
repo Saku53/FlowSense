@@ -1,0 +1,6 @@
+{
+  "name": "FlowSense",
+  "description": "Unify multi-provider liquidity visibility, surface unusual activity, and audit access controls securely with privacy-by-design boundaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

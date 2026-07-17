@@ -1,0 +1,65 @@
+[
+  {
+    "username": "agent1",
+    "password": "password123",
+    "role": "AGENT",
+    "scope": "AGENT-001",
+    "description": "Agent for Maa Telecom (Gulshan)"
+  },
+  {
+    "username": "agent2",
+    "password": "password123",
+    "role": "AGENT",
+    "scope": "AGENT-002",
+    "description": "Agent for Roni Enterprise (Motijheel)"
+  },
+  {
+    "username": "agent5",
+    "password": "password123",
+    "role": "AGENT",
+    "scope": "AGENT-005",
+    "description": "Agent for Sreepur Bazar Agency (Semi-Urban)"
+  },
+  {
+    "username": "bkash_ops",
+    "password": "password123",
+    "role": "PROVIDER_OPS",
+    "scope": "bkash",
+    "description": "bKash Operations Team member"
+  },
+  {
+    "username": "nagad_ops",
+    "password": "password123",
+    "role": "PROVIDER_OPS",
+    "scope": "nagad",
+    "description": "Nagad Operations Team member"
+  },
+  {
+    "username": "rocket_ops",
+    "password": "password123",
+    "role": "PROVIDER_OPS",
+    "scope": "rocket",
+    "description": "Rocket Operations Team member"
+  },
+  {
+    "username": "bkash_risk",
+    "password": "password123",
+    "role": "RISK_ANALYST",
+    "scope": "bkash",
+    "description": "bKash Risk Compliance Analyst"
+  },
+  {
+    "username": "management",
+    "password": "password123",
+    "role": "MANAGEMENT",
+    "scope": "global",
+    "description": "Cross-provider Management Dashboard user (aggregated only)"
+  },
+  {
+    "username": "shop_owner",
+    "password": "password123",
+    "role": "SHOP_OWNER",
+    "scope": "all_agents",
+    "description": "Agent Shop Owner of all 8 locations (full combined drawer details)"
+  }
+]
